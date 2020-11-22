@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         mStorageReference.getFile(file).addOnSuccessListener(new OnSuccessListener<FileDownloadTask.TaskSnapshot>() {
             @Override
             public void onSuccess(FileDownloadTask.TaskSnapshot taskSnapshot) {
-                Toast.makeText(MainActivity.this,"Заебись",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"+++",Toast.LENGTH_SHORT).show();
                 Bitmap bitmap= BitmapFactory.decodeFile(file.getAbsolutePath());
                 image.setImageBitmap(bitmap);
 
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         }).addOnFailureListener(new OnFailureListener() {
             @Override
             public void onFailure(@NonNull Exception e) {
-                Toast.makeText(MainActivity.this,"Хуево",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"---",Toast.LENGTH_SHORT).show();
 
             }
         });
