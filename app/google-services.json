@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "691674494797",
+    "firebase_url": "https://hinature20.firebaseio.com",
+    "project_id": "hinature20",
+    "storage_bucket": "hinature20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691674494797:android:678637c97a88439ab96904",
+        "android_client_info": {
+          "package_name": "Firebase.Image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jSc8JI308z7j-1OsXxs3a_LfLRA1Hqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691674494797-qeffu2sf0g56hkpt3r4n6sqtv55qdcu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hinature.HiNature"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691674494797:android:5e4b0fd13bf06d67b96904",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jSc8JI308z7j-1OsXxs3a_LfLRA1Hqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691674494797-qeffu2sf0g56hkpt3r4n6sqtv55qdcu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hinature.HiNature"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691674494797:android:a9b307cca8f02afdb96904",
+        "android_client_info": {
+          "package_name": "com.example.hinature20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691674494797-f1kurkak4ioem9c2u62pnga5972s4d10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hinature20",
+            "certificate_hash": "f39cff0b4364722fd55e9afa0ab7d10fafcdf12e"
+          }
+        },
+        {
+          "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jSc8JI308z7j-1OsXxs3a_LfLRA1Hqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691674494797-qeffu2sf0g56hkpt3r4n6sqtv55qdcu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hinature.HiNature"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691674494797:android:a91e9d82438d9589b96904",
+        "android_client_info": {
+          "package_name": "com.example.hinature_for_android80"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jSc8JI308z7j-1OsXxs3a_LfLRA1Hqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691674494797-aaaarqoqdce70h9et49opdgl3jvq48ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691674494797-qeffu2sf0g56hkpt3r4n6sqtv55qdcu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hinature.HiNature"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
